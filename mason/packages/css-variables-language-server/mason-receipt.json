@@ -1,0 +1,1 @@
+{"schema_version":"1.1","name":"css-variables-language-server","primary_source":{"id":"pkg:npm\/css-variables-language-server@2.7.0","type":"registry+v1"},"links":{"opt":{},"share":{},"bin":{"css-variables-language-server":"node_modules\/.bin\/css-variables-language-server"}},"metrics":{"start_time":1725421877696,"completion_time":1725421886113},"secondary_sources":[]}

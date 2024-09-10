@@ -1,0 +1,1 @@
+{"schema_version":"1.1","name":"phpactor","primary_source":{"id":"pkg:github\/phpactor\/phpactor@2024.06.30.0","type":"registry+v1"},"links":{"opt":{},"share":{},"bin":{"phpactor":"phpactor"}},"metrics":{"start_time":1725421938100,"completion_time":1725421940998},"secondary_sources":[]}

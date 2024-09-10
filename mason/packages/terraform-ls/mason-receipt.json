@@ -1,0 +1,1 @@
+{"links":{"share":{"mason-schemas\/lsp\/terraform-ls.json":"mason-schemas\/lsp.json"},"opt":{},"bin":{"terraform-ls":"terraform-ls"}},"primary_source":{"id":"pkg:generic\/hashicorp\/terraform-ls@v0.34.3","type":"registry+v1"},"metrics":{"completion_time":1725519822994,"start_time":1725519820067},"name":"terraform-ls","secondary_sources":[],"schema_version":"1.1"}

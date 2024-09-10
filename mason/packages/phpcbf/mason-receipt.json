@@ -1,0 +1,1 @@
+{"links":{"bin":{"phpcbf":"phpcbf"},"share":{},"opt":{}},"name":"phpcbf","metrics":{"start_time":1725430123703,"completion_time":1725430127721},"schema_version":"1.1","secondary_sources":[],"primary_source":{"type":"registry+v1","id":"pkg:github\/phpcsstandards\/php_codesniffer@3.10.2"}}

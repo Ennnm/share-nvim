@@ -1,0 +1,1 @@
+{"links":{"bin":{"php-cs-fixer":"php-cs-fixer"},"share":{},"opt":{}},"name":"php-cs-fixer","metrics":{"start_time":1725430115597,"completion_time":1725430118061},"schema_version":"1.1","secondary_sources":[],"primary_source":{"type":"registry+v1","id":"pkg:github\/php-cs-fixer\/php-cs-fixer@v3.64.0"}}
